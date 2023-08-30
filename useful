@@ -1,0 +1,43 @@
+Google Dork: inurl: "phpmyadmin/setup/"
+Google Dork: intitle:"index of" "checkout"
+Google Dork: inurl:ssh intitle:index of /files
+Google Dork: allintitle:"Cyberoam SSL VPN Portal"
+Google Dork: intitle:"index of" /etc/shadow
+Google Dork: inurl:"device.rsp" -in
+Google Dork: intext:"index of" "wp-content.zip"
+Google Dork: "intitle:index of wp-content/plugins/wp-mail-smtp/"
+Google Dork: intext:"index of" smb.conf
+Google Dork: inurl:robots filetype:txt
+Google Dork: Google Dork : intitle:"Toshiba Network Camera"
+Google Dork: intitle:"index of" "database.sql"
+Google Dork: intext:"index of" "wp-content.zip"
+Google Dork: intitle:"index of" inurl:wp-json index.json
+Google Dork: intext:"/login.php" intitle:"login"
+ Google Dork: inurl:/wp-content/uploads/wpo_wcpdf
+Google Dork: inurl:"/login.aspx" intitle:"user"
+Google Dork: inurl:wp-content/uploads/sites
+Google Dork: allintitle:"macOS Server" site:.edu
+ Google Dork: intitle:"SCM Manager" intext:1.60
+Google Dork: intitle:"index of" google-maps-api
+Google Dork: index of /backup.sql
+Google Dork: intitle:index.of conf.php
+Google Dork: intitle:"index of" github-api
+ Google Dork: inurl:uploadimage.php
+Google Dork: intitle:"Index of" inurl:/backup/ "admin.zip"
+Google Dork: intitle:"Sharing API Info"
+Google Dork: inurl:*/wp-content/plugins/contact-form-7/
+Google Dork: inurl: /libraries/joomla/database/
+Google Dork: inurl:"wp-content" intitle:"index.of" intext:backup"
+Google Dork: allintitle:"Opengear Management Console"
+Google Dork: intitle:"index of "phpunit.yml"
+ Google Dork: intitle:"index of" "download.php?file="
+ Google Dork: inurl:":8080/" intext:"index of /" "win64" -LiteSpeed
+ Google Dork: inurl:".ir/" intext:"index of /" ".ovpn"
+Google Dork: intitle:"index of" "config.html"
+Google Dork: intitle:"index of /" ".apk" inurl:".ir/"
+
+
+
+https://www.exploit-db.com/google-hacking-database
+
+https://www.exploit-db.com/search
